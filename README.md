@@ -6,7 +6,7 @@
 
 See full build video here: 
 
-####Parts list:
+#### Parts list:
 
 - Arduino uno or comparable board
 - HK4100F-DC-SHG Relay
