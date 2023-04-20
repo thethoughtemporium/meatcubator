@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/14140482/221013200-d46fa512-be29-46ee-9e8d-7e283e2944bc.png)
 
-See full build video here: 
+See full build video here: [link](https://www.youtube.com/watch?v=Z_ZGq8Tah0k)
 
 #### Parts list:
 
